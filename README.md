@@ -1,5 +1,31 @@
 <!-- markdownlint-disable MD028 MD033 MD045 -->
+### 2024/8/17测试正常可以安装centos 7
+海外
+```bash
+curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh
+```
+国内
+```bash
+curl -O https://mirror.ghproxy.com/https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh
+```
 
+Linux系统  
+bash reinstall.sh debian 12  
+bash reinstall.sh ubuntu 22.04  
+常用版本
+
+centos 7|8|9 (8|9 为 stream 版本)
+oracle 7|8|9
+alma 8|9
+rocky 8|9
+fedora 38|39|40
+debian 10|11|12
+opensuse 15.5|tumbleweed
+ubuntu 20.04|22.04|24.04
+alpine 3.16|3.17|3.18|3.19
+kali
+arch
+gentoo
 # reinstall
 
 [![Codacy](https://img.shields.io/codacy/grade/dc679a17751448628fe6d8ac35e26eed?logo=Codacy&label=Codacy)](https://app.codacy.com/gh/bin456789/reinstall/dashboard)
