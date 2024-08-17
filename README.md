@@ -13,7 +13,7 @@ Linux系统
 bash reinstall.sh debian 12  
 bash reinstall.sh ubuntu 22.04  
 bash reinstall.sh centos 7  
-安装完成重启即可
+安装完成重启即可  
 常用版本
 ```bash
 centos 7|8|9 (8|9 为 stream 版本)
