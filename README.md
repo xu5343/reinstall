@@ -13,7 +13,7 @@ Linux系统
 bash reinstall.sh debian 12  
 bash reinstall.sh ubuntu 22.04  
 常用版本
-
+```bash
 centos 7|8|9 (8|9 为 stream 版本)
 oracle 7|8|9
 alma 8|9
@@ -26,6 +26,7 @@ alpine 3.16|3.17|3.18|3.19
 kali
 arch
 gentoo
+```
 # reinstall
 
 [![Codacy](https://img.shields.io/codacy/grade/dc679a17751448628fe6d8ac35e26eed?logo=Codacy&label=Codacy)](https://app.codacy.com/gh/bin456789/reinstall/dashboard)
